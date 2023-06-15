@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/tutor-project/static/css/main.440d8e60.css",
+    "main.js": "/tutor-project/static/js/main.c9c99967.js",
+    "static/media/banana.jpeg": "/tutor-project/static/media/banana.50c35e9ac57c3f906af4.jpeg",
+    "index.html": "/tutor-project/index.html",
+    "main.440d8e60.css.map": "/tutor-project/static/css/main.440d8e60.css.map",
+    "main.c9c99967.js.map": "/tutor-project/static/js/main.c9c99967.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.440d8e60.css",
+    "static/js/main.c9c99967.js"
+  ]
+}

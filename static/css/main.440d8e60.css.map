@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.440d8e60.css","mappings":"AAEA,OACE,uBACF,CAEA,UACE,sBACF","sources":["index.css"],"sourcesContent":["\n\n.about {\n  background-color: bisque;\n}\n\n.projects {\n  background-color: brown;\n}\n\n/* a random change */"],"names":[],"sourceRoot":""}
