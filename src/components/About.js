@@ -16,10 +16,12 @@ const About = () => {
                 <img src={banana} alt="" className="self-photo"/>
             </div>
             
-
-            
         </div>
     );
 };
 
 export default About;
+
+
+
+// Change for testing

@@ -7,4 +7,7 @@ const Activities = () => {
     );
 };
 
+
+// Change for testing
+
 export default Activities;
